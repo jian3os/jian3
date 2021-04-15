@@ -1,6 +1,8 @@
 # echo
-# source: git clone git://git.sv.gnu.org/coreutils
-# file: coreutils/src/echo.c
+project source: git clone git://git.sv.gnu.org/coreutils
+original file: coreutils/src/echo.c
 
-$ make -s
-$ ./echo "hello world"
+```
+>make -s
+>./echo "hello world"
+```
