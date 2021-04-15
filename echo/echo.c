@@ -9,8 +9,6 @@ int main(int argc, char *argv[])
 		fputs (argv[0], stdout);
 		argc--;
 		argv++;
-		if (argc > 0)
-			putchar (' ');
 	}
 	putchar ('\n');
 	
