@@ -9,7 +9,7 @@ RM = rm
 CFLAGS  = -g -Wall
 
 # the build target executable:
-TARGET = echo
+TARGET = envp
 
 all: $(TARGET)
 
