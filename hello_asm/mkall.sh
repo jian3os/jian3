@@ -5,3 +5,5 @@ ld -o hello hello.o
 
 # gdb
 # x/s $ecx
+
+gcc -g -no-pie -o hello_main hello_main.s
