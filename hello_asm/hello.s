@@ -1,4 +1,4 @@
-# cpuid.s Sample program to extract the processor Vendor ID
+# hello.s
 .section .data
 output:
 	.ascii "Hello world!\n"
